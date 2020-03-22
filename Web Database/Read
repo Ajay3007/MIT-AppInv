@@ -1,0 +1,9 @@
+In this section you will read Utilizing a Web Database:
+drag the following palettes-
+     1. ListView
+     2. HorizontalArrangenment
+        2.a. Button
+        2.b. TextBox
+     3. HorizontalArrangenment
+        3.a. Spinner
+     4. TinyWebDB from storage palette
